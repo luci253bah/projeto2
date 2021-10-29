@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background: #2fffe3;
+}
+#container{
+  width: 996px;
+  height: 615px;
+  margin: 0 auto;
+
+}
+#azul{
+    background-color: blue;
+    height: 150px;
+
+}
+#vermelho{
+    background-color: red;
+    height: 150px;
+
+}
+#preto{
+    background-color: black;
+    min-height: 400px;
+
+}
+#amarelo{
+    background-color: yellow;
+    height: 400px;  
+    width: 196px; 
+
+}
+#verde{
+    background-color: green;
+    height: 150px;
+    
+}
+
+@media  screen and (max-whidth:576px){
+
+}
+#azul{
+    height: 150px;
+}
+#vermelho{
+     height: 150px;
+     
+}
+img{
+    margin: 60px;
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+.agencia{
+    margin-top: 10;
+    width: 150;
+    height: 100;
+
+}
+.pag{
+    color: red;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
